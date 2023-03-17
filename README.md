@@ -25,7 +25,7 @@ This website was built following along with a JS Mastery tutorial video.
 
 ## Author
 
-- Website - [Kaleb Mchenry](https://www.your-site.com)
+- Website - [Kaleb Mchenry](https://kalebmchenry.netlify.app/)
 
 ## Updates
 
